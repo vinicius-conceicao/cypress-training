@@ -7,8 +7,8 @@ tmp
 .projects
 *.orig
 
-screenshots
-videos
+cypress/screenshots
+cypress/videos
 out.js
 examples/*/cypress/logs
 examples/*/cypress/downloads
